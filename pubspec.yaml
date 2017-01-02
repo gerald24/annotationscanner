@@ -1,0 +1,8 @@
+name: annotationscanner
+description: Scans root library for annotation usages
+version: 0.0.1
+author: Gerald Leeb <gerald@g-24.net>
+homepage: https://github.com/gerald24/annotationscanner
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
